@@ -1,0 +1,1 @@
+g++ test.cpp -Wall -O1 -std=c++17
